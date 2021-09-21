@@ -1,0 +1,39 @@
+[
+  {
+    "Dia": "A",
+    "Cor": "#B96CBD",
+    "GrupoMuscular": "Peito",
+    "Exercicios": [
+      {
+        "Nome": "Supino reto",
+        "Series": "3x10",
+        "Carga": "20"
+      },
+      {
+        "Nome": "Supino inclinado",
+        "Series": "3x10",
+        "Carga": "15"
+      },
+      {
+        "Nome": "Crucifixo declinado",
+        "Series": "3x10",
+        "Carga": "10"
+      },
+      {
+        "Nome": "Voador",
+        "Series": "3x10",
+        "Carga": "20"
+      },
+      {
+        "Nome": "Flexão",
+        "Series": "3x10",
+        "Carga": "0"
+      },
+      {
+        "Nome": "Abdominal",
+        "Series": "3x10",
+        "Carga": "0"
+      }
+    ]
+  }
+]
