@@ -1,191 +1,196 @@
-  [
+[
   {
-    "Dia": "A",
-    "Cor": "#B96CBD",
-    "GrupoMuscular": "Peito",
-    "Exercicios": [
+    "Data": "20/09/2021",
+    "Lista": [
       {
-        "Nome": "Supino reto",
-        "Series": "3x10",
-        "Carga": "20"
+        "Dia": "A",
+        "Cor": "null",
+        "GrupoMuscular": "Peito",
+        "Exercicios": [
+          {
+            "Nome": "Supino reto",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Supino inclinado",
+            "Series": "3x10",
+            "Carga": "15"
+          },
+          {
+            "Nome": "Crucifixo declinado",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Voador",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Flexão",
+            "Series": "3x10",
+            "Carga": "0"
+          },
+          {
+            "Nome": "Abdominal",
+            "Series": "3x10",
+            "Carga": "0"
+          }
+        ]
       },
       {
-        "Nome": "Supino inclinado",
-        "Series": "3x10",
-        "Carga": "15"
+        "Dia": "B",
+        "Cor": "#49A24D",
+        "GrupoMuscular": "Costas",
+        "Exercicios": [
+          {
+            "Nome": "Puxada",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Remada sentada fechada",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Remada unilateral",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Remada curvada",
+            "Series": "3x10",
+            "Carga": "20"
+          }
+        ]
       },
       {
-        "Nome": "Crucifixo declinado",
-        "Series": "3x10",
-        "Carga": "10"
+        "Dia": "C",
+        "Cor": "#FDA838",
+        "GrupoMuscular": "Pernas",
+        "Exercicios": [
+          {
+            "Nome": "Agachamento",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Extensora",
+            "Series": "3x10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Flexora",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Panturrilha",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Adutor",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Abdutor",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Abdominal",
+            "Series": "3x10",
+            "Carga": "0"
+          }
+        ]
       },
       {
-        "Nome": "Voador",
-        "Series": "3x10",
-        "Carga": "20"
+        "Dia": "D",
+        "Cor": "#F75355",
+        "GrupoMuscular": "Braços",
+        "Exercicios": [
+          {
+            "Nome": "Rosca direta",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Rosca alternada",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Rosca 21",
+            "Series": "3x10",
+            "Carga": "5"
+          },
+          {
+            "Nome": "Triceps pulley",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Triceps francês",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Triceps coice",
+            "Series": "3x10",
+            "Carga": "5"
+          },
+          {
+            "Nome": "Rosca direta inversa",
+            "Series": "3x10",
+            "Carga": "5"
+          },
+          {
+            "Nome": "Rosca pulso",
+            "Series": "3x10",
+            "Carga": "5"
+          }
+        ]
       },
       {
-        "Nome": "Flexão",
-        "Series": "3x10",
-        "Carga": "0"
-      },
-      {
-        "Nome": "Abdominal",
-        "Series": "3x10",
-        "Carga": "0"
-      }
-    ]
-  },
-  {
-    "Dia": "B",
-    "Cor": "#49A24D",
-    "GrupoMuscular": "Costas",
-    "Exercicios": [
-      {
-        "Nome": "Puxada",
-        "Series": "3x10",
-        "Carga": "20"
-      },
-      {
-        "Nome": "Remada sentada fechada",
-        "Series": "3x10",
-        "Carga": "20"
-      },
-      {
-        "Nome": "Remada unilateral",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Remada curvada",
-        "Series": "3x10",
-        "Carga": "20"
-      }
-    ]
-  },
-  {
-    "Dia": "C",
-    "Cor": "#FDA838",
-    "GrupoMuscular": "Pernas",
-    "Exercicios": [
-      {
-        "Nome": "Agachamento",
-        "Series": "3x10",
-        "Carga": "20"
-      },
-      {
-        "Nome": "Extensora",
-        "Series": "3x10",
-        "Carga": "20"
-      },
-      {
-        "Nome": "Flexora",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Panturrilha",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Adutor",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Abdutor",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Abdominal",
-        "Series": "3x10",
-        "Carga": "0"
-      }
-    ]
-  },
-  {
-    "Dia": "D",
-    "Cor": "#F75355",
-    "GrupoMuscular": "Braços",
-    "Exercicios": [
-      {
-        "Nome": "Rosca direta",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Rosca alternada",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Rosca 21",
-        "Series": "3x10",
-        "Carga": "5"
-      },
-      {
-        "Nome": "Triceps pulley",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Triceps francês",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Triceps coice",
-        "Series": "3x10",
-        "Carga": "5"
-      },
-      {
-        "Nome": "Rosca direta inversa",
-        "Series": "3x10",
-        "Carga": "5"
-      },
-      {
-        "Nome": "Rosca pulso",
-        "Series": "3x10",
-        "Carga": "5"
-      }
-    ]
-  },
-  {
-    "Dia": "E",
-    "Cor": "#00C6AE",
-    "GrupoMuscular": "Ombros",
-    "Exercicios": [
-      {
-        "Nome": "Remada alta",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Encolhimento",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Elevação lateral",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Elevação frontal",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Desenvolvimento",
-        "Series": "3x10",
-        "Carga": "10"
-      },
-      {
-        "Nome": "Abdominal",
-        "Series": "3x10",
-        "Carga": "0"
+        "Dia": "E",
+        "Cor": "#00C6AE",
+        "GrupoMuscular": "Ombros",
+        "Exercicios": [
+          {
+            "Nome": "Remada alta",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Encolhimento",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Elevação lateral",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Elevação frontal",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Desenvolvimento",
+            "Series": "3x10",
+            "Carga": "10"
+          },
+          {
+            "Nome": "Abdominal",
+            "Series": "3x10",
+            "Carga": "0"
+          }
+        ]
       }
     ]
   }
