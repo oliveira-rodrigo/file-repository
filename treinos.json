@@ -11,14 +11,14 @@
         "Carga": "20"
       },
       {
-        "Nome": "Supino inclinado",
+        "Nome": "Crossover baixo",
         "Series": "3x10",
-        "Carga": "15"
+        "Carga": "20"
       },
       {
         "Nome": "Crucifixo declinado",
         "Series": "3x10",
-        "Carga": "10"
+        "Carga": "20"
       },
       {
         "Nome": "Voador",
@@ -28,7 +28,7 @@
       {
         "Nome": "Flexão",
         "Series": "3x10",
-        "Carga": "0"
+        "Carga": "6"
       },
       {
         "Nome": "Abdominal",
