@@ -6,31 +6,26 @@
         "Dia": "A",
         "Cor": "#B96CBD",
         "GrupoMuscular": "Peito",
-        "Exercicios": [
+        "Exercicios": [          
           {
-            "Nome": "Supino reto",
+            "Nome": "Flexão",
+            "Series": "3x10",
+            "Carga": "11kg"
+          },
+          {
+            "Nome": "Flexão declinado",
+            "Series": "3x10",
+            "Carga": "11"
+          },
+          {
+            "Nome": "Crossover polia baixa",
             "Series": "3x10",
             "Carga": "20"
-          },
-          {
-            "Nome": "Supino inclinado",
-            "Series": "3x10",
-            "Carga": "15"
-          },
-          {
-            "Nome": "Crucifixo declinado",
-            "Series": "3x10",
-            "Carga": "10"
           },
           {
             "Nome": "Voador",
             "Series": "3x10",
             "Carga": "20"
-          },
-          {
-            "Nome": "Flexão",
-            "Series": "3x10",
-            "Carga": "0"
           },
           {
             "Nome": "Abdominal",
@@ -47,22 +42,27 @@
           {
             "Nome": "Puxada",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "24"
           },
           {
             "Nome": "Remada sentada fechada",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "28"
           },
           {
             "Nome": "Remada unilateral",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "22"
           },
           {
             "Nome": "Remada curvada",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "24"
+          },
+          {
+            "Nome": "Pulldown (asa)",
+            "Series": "3x10",
+            "Carga": "24"
           }
         ]
       },
@@ -74,33 +74,38 @@
           {
             "Nome": "Agachamento",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "22"
           },
           {
-            "Nome": "Extensora",
+            "Nome": "Avanço",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "18"
           },
           {
-            "Nome": "Flexora",
+            "Nome": "Stiff",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "22"
+          },
+          {
+            "Nome": "Agachamento sumo",
+            "Series": "3x10",
+            "Carga": "22"
           },
           {
             "Nome": "Panturrilha",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "22"
           },
           {
-            "Nome": "Adutor",
+            "Nome": "Extensora",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "22"
           },
           {
-            "Nome": "Abdutor",
+            "Nome": "Flexora",
             "Series": "3x10",
-            "Carga": "10"
-          },
+            "Carga": "18"
+          },                    
           {
             "Nome": "Abdominal",
             "Series": "3x10",
@@ -116,42 +121,42 @@
           {
             "Nome": "Rosca direta",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "15"
           },
           {
             "Nome": "Rosca alternada",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "13"
           },
           {
-            "Nome": "Rosca 21",
+            "Nome": "Rosca Martelo",
             "Series": "3x10",
-            "Carga": "5"
+            "Carga": "13"
           },
           {
             "Nome": "Triceps pulley",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "15"
           },
           {
             "Nome": "Triceps francês",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "15"
           },
           {
             "Nome": "Triceps coice",
             "Series": "3x10",
-            "Carga": "5"
+            "Carga": "9"
           },
           {
             "Nome": "Rosca direta inversa",
             "Series": "3x10",
-            "Carga": "5"
+            "Carga": "9"
           },
           {
             "Nome": "Rosca pulso",
             "Series": "3x10",
-            "Carga": "5"
+            "Carga": "9"
           }
         ]
       },
@@ -163,27 +168,27 @@
           {
             "Nome": "Remada alta",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "13"
           },
           {
             "Nome": "Encolhimento",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "22"
           },
           {
             "Nome": "Elevação lateral",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "11"
           },
           {
             "Nome": "Elevação frontal",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "11"
           },
           {
             "Nome": "Desenvolvimento",
             "Series": "3x10",
-            "Carga": "10"
+            "Carga": "18"
           },
           {
             "Nome": "Abdominal",
