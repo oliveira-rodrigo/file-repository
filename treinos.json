@@ -74,22 +74,22 @@
           {
             "Nome": "Agachamento",
             "Series": "3x10",
-            "Carga": "22"
+            "Carga": "28"
           },
           {
             "Nome": "Avanço",
             "Series": "3x10",
-            "Carga": "18"
+            "Carga": "22"
           },
           {
             "Nome": "Stiff",
             "Series": "3x10",
-            "Carga": "22"
+            "Carga": "28"
           },
           {
             "Nome": "Agachamento sumo",
             "Series": "3x10",
-            "Carga": "22"
+            "Carga": "28"
           },
           {
             "Nome": "Panturrilha",
@@ -121,7 +121,7 @@
           {
             "Nome": "Rosca direta",
             "Series": "3x10",
-            "Carga": "15"
+            "Carga": "18"
           },
           {
             "Nome": "Rosca alternada",
@@ -131,32 +131,32 @@
           {
             "Nome": "Rosca Martelo",
             "Series": "3x10",
-            "Carga": "13"
+            "Carga": "18"
           },
           {
             "Nome": "Triceps pulley",
             "Series": "3x10",
-            "Carga": "15"
+            "Carga": "18"
           },
           {
-            "Nome": "Triceps francês",
+            "Nome": "Triceps pegada invertida",
             "Series": "3x10",
             "Carga": "15"
           },
           {
             "Nome": "Triceps coice",
             "Series": "3x10",
-            "Carga": "9"
+            "Carga": "13"
           },
           {
             "Nome": "Rosca direta inversa",
             "Series": "3x10",
-            "Carga": "9"
+            "Carga": "13"
           },
           {
             "Nome": "Rosca pulso",
             "Series": "3x10",
-            "Carga": "9"
+            "Carga": "13"
           }
         ]
       },
