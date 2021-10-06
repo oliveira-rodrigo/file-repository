@@ -10,12 +10,12 @@
           {
             "Nome": "Flexão",
             "Series": "3x10",
-            "Carga": "11kg"
+            "Carga": "13"
           },
           {
             "Nome": "Flexão declinado",
             "Series": "3x10",
-            "Carga": "11"
+            "Carga": "13"
           },
           {
             "Nome": "Crossover polia baixa",
@@ -25,7 +25,7 @@
           {
             "Nome": "Voador",
             "Series": "3x10",
-            "Carga": "20"
+            "Carga": "24"
           },
           {
             "Nome": "Abdominal",
@@ -42,12 +42,12 @@
           {
             "Nome": "Puxada",
             "Series": "3x10",
-            "Carga": "24"
+            "Carga": "28"
           },
           {
             "Nome": "Remada sentada fechada",
             "Series": "3x10",
-            "Carga": "28"
+            "Carga": "33"
           },
           {
             "Nome": "Remada unilateral",
@@ -164,17 +164,7 @@
         "Dia": "E",
         "Cor": "#00C6AE",
         "GrupoMuscular": "Ombros",
-        "Exercicios": [
-          {
-            "Nome": "Remada alta",
-            "Series": "3x10",
-            "Carga": "13"
-          },
-          {
-            "Nome": "Encolhimento",
-            "Series": "3x10",
-            "Carga": "22"
-          },
+        "Exercicios": [          
           {
             "Nome": "Elevação lateral",
             "Series": "3x10",
@@ -188,7 +178,17 @@
           {
             "Nome": "Desenvolvimento",
             "Series": "3x10",
-            "Carga": "18"
+            "Carga": "22"
+          },
+          {
+            "Nome": "Posterior",
+            "Series": "3x10",
+            "Carga": "11"
+          },
+          {
+            "Nome": "Encolhimento",
+            "Series": "3x10",
+            "Carga": "22"
           },
           {
             "Nome": "Abdominal",
