@@ -8,7 +8,7 @@
         "Dia": "A",
         "Cor": "#B96CBD",
         "GrupoMuscular": "Peito",
-        "Exercicios": [          
+        "Exercicios": [
           {
             "Nome": "Flexão",
             "Series": "3x10",
@@ -107,7 +107,7 @@
             "Nome": "Flexora",
             "Series": "3x10",
             "Carga": "18"
-          },                    
+          },
           {
             "Nome": "Abdominal",
             "Series": "3x10",
@@ -166,7 +166,7 @@
         "Dia": "E",
         "Cor": "#00C6AE",
         "GrupoMuscular": "Ombros",
-        "Exercicios": [          
+        "Exercicios": [
           {
             "Nome": "Elevação lateral",
             "Series": "3x10",
@@ -196,6 +196,139 @@
             "Nome": "Abdominal",
             "Series": "3x10",
             "Carga": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Nome": "Treino ABCDE",
+    "Data": "05/01/2022",
+    "Lista": [
+      {
+        "Dia": "A",
+        "Cor": "#B96CBD",
+        "GrupoMuscular": "Peito (Empurrar)",
+        "Exercicios": [
+          {
+            "Nome": "Supino",
+            "Series": "5 x 8-10",
+            "Carga": "13"
+          },
+          {
+            "Nome": "Supino Inclinado",
+            "Series": "4x8-10",
+            "Carga": "13"
+          },
+          {
+            "Nome": "Voador",
+            "Series": "3x8-10",
+            "Carga": "20"
+          },
+          {
+            "Nome": "Desenvolvimento",
+            "Series": "4x8-10",
+            "Carga": "24"
+          },
+          {
+            "Nome": "Elevação lateral",
+            "Series": "3x8-10",
+            "Carga": "0"
+          },
+          {
+            "Nome": "Mergulho (Tríceps banco)",
+            "Series": "4x8-10",
+            "Carga": "0"
+          },
+          {
+            "Nome": "Tríceps corda",
+            "Series": "3x8-10",
+            "Carga": "0"
+          }
+        ]
+      },
+      {
+        "Dia": "B",
+        "Cor": "#49A24D",
+        "GrupoMuscular": "Costas (Puxar)",
+        "Exercicios": [
+          {
+            "Nome": "Barra fixa",
+            "Series": "5x8-10",
+            "Carga": "28"
+          },
+          {
+            "Nome": "Remada baixa triangulo (fechada)",
+            "Series": "4x8-10",
+            "Carga": "33"
+          },
+          {
+            "Nome": "Puxada alta",
+            "Series": "3x8-10",
+            "Carga": "22"
+          },
+          {
+            "Nome": "Rosca alternada",
+            "Series": "4x8-10",
+            "Carga": "24"
+          },
+          {
+            "Nome": "Rosca direta",
+            "Series": "3x8-10",
+            "Carga": "24"
+          },
+          {
+            "Nome": "Abdominal crunch",
+            "Series": "3x8-10",
+            "Carga": "24"
+          },
+          {
+            "Nome": "Abdominal obliquo",
+            "Series": "3x8-10",
+            "Carga": "24"
+          }
+        ]
+      },
+      {
+        "Dia": "C",
+        "Cor": "#FDA838",
+        "GrupoMuscular": "Pernas",
+        "Exercicios": [
+          {
+            "Nome": "Agachamento",
+            "Series": "5x8-10",
+            "Carga": "28"
+          },
+          {
+            "Nome": "Leg Press",
+            "Series": "4x8-10",
+            "Carga": "22"
+          },
+          {
+            "Nome": "Extensora",
+            "Series": "3x8-10",
+            "Carga": "28"
+          },
+          {
+            "Nome": "Stiff",
+            "Series": "4x8-10",
+            "Carga": "28"
+          },
+          {
+            "Nome": "Mesa Flexora",
+            "Series": "3x8-10",
+            "Carga": "18"
+          },
+          {
+            "Nome": "Extensora Lombar",
+            "Series": "3x8-10",
+            "Carga": "22"
+          },
+          {
+            "Nome": "Panturrilha",
+            "Series": "4x8-10",
+            "Carga": "22"
           }
         ]
       }
